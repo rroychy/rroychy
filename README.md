@@ -8,5 +8,5 @@ I'm a motivated person do develop something. Now focusing on building reponsive,
 * **FRONTEND:** React, JScript, HTML, CSS
 * **TOOLS:** Vercel, API
 ### Connect here
-* []
+* Linkedin: [https://www.linkedin.com/in/rroychy/]
 * [rroychy@aol.com]
