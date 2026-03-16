@@ -1,4 +1,4 @@
-# THIS IS RAJDEEP
+# I AM RAJDEEP
 I'm a motivated person do develop something. Now focusing on building reponsive, user-friendly web application with clean code.
 ### PROJECTS by ME!
 **SHOPPING WEBSITE Project** - A React-based website being deployed on Vercel.
